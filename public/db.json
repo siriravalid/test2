@@ -1,0 +1,77 @@
+{
+    "cosmetics": [
+      {
+        "id": 1,
+        "product_name": "Lipstick",
+        "company": "Revlon",
+        "shade": "Red Velvet",
+        "price": 1250,
+        "product_info": {
+          "mfg_date": "09-18-2023",
+          "is_waterproof": true
+        },
+        "in_stock": true
+      },
+      {
+        "id": 2,
+        "product_name": "Mascara",
+        "company": "L'Oreal",
+        "shade": "brown",
+        "price": 1520,
+        "product_info": {
+          "mfg_date": "10-05-2023",
+          "is_waterproof": true
+        },
+        "in_stock": true
+      },
+      {
+        "id": 3,
+        "product_name": "Foundation",
+        "company": "Estée Lauder",
+        "shade": "Ivory",
+        "price": 2250,
+        "product_info": {
+          "mfg_date": "11-12-2022",
+          "is_waterproof": true
+        },
+        "in_stock": true
+      },
+      {
+        "id": 4,
+        "product_name": "Eye Shadow",
+        "company": "Chanel",
+        "shade": "bronze",
+        "price": 2500,
+        "product_info": {
+          "mfg_date": "12-02-2022",
+          "is_waterproof": true
+        },
+        "in_stock": true
+      },
+      {
+        "id": 5,
+        "product_name": "Blush",
+        "company": "NARS",
+        "shade": "peach",
+        "price": 1800,
+        "product_info": {
+          "mfg_date": "10-25-2023",
+          "is_waterproof": true
+        },
+        "in_stock": true
+      },
+      {
+        "id": 6,
+        "product_name": "Bronzer",
+        "company": "Tarte",
+        "shade": "Copper",
+        "price": 2200,
+        "product_info": {
+          "mfg_date": "09-25-2023",
+          "is_waterproof": true
+        },
+        "in_stock": true
+      }
+    ]
+  }
+  
